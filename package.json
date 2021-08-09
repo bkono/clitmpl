@@ -1,0 +1,19 @@
+{
+  "author": "CHANGE ME",
+  "bugs": {
+    "url": "https://github.com/bkono/clitmpl/issues"
+  },
+  "description": "A template to be CHANGED.",
+  "homepage": "https://github.com/bkono/clitmpl#readme",
+  "license": "UNLICENSED",
+  "main": "cmd/main.go",
+  "name": "clitmpl",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkono/clitmpl.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.0.1"
+}
